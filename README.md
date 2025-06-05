@@ -18,3 +18,6 @@ There are a few differences compared to the original EPD2_4G_MixedExample_ext ex
 
 *********************************
 Example is provided "as is", please do not expect any further documentation or any support.
+
+![screen photo 1](IMG20250605112455.jpg)
+![screen photo 2](IMG20250605112422.jpg)
