@@ -22,6 +22,7 @@ There are a few differences compared to the original EPD2_4G_MixedExample_ext ex
 *********************************
 Example is provided "as is", please do not expect any further documentation or any support.
 
-![wiring diagram](ESP32-S3-Nano-SPI_EPD_wiring_ML.jpg)
+![wiring diagram](ESP32-S3-Nano-SPI_EPD_wiring_ML.jpg)  
+Pictures below show anti-aliased text next to the original (not anti-aliased) text
 ![screen photo 1](IMG20250605112455.jpg)
 ![screen photo 2](IMG20250605112422.jpg)
